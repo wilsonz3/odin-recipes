@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is building a simple recipe website that will consist of a main index page consisting of links to different recipes. I will use my understanding of HTML up to now to complete it. 8/2/2022
